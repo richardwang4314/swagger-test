@@ -1,2 +1,2 @@
 # swagger-test
-spring boot + swagger 2
+java 8 + spring boot + swagger 2 + maven
